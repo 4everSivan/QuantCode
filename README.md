@@ -1,2 +1,2 @@
 # quant_code
-Statistical code number and graphical display
+Statistical code and graphical display
