@@ -6,6 +6,6 @@ BANNER = """
 / /_/ / // / _ `/ _ \/ __/ /__/ _ \/ _  / -_)
 \___\_\_,_/\_,_/_//_/\__/\___/\___/\_,_/\__/ 
 
---- QuantCode - Statistical code number and graphical displayn .
+--- QuantCode - statistical code and graphical display .
 --- Version: {}
 """.format(__version__)
