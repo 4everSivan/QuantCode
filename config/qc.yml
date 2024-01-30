@@ -1,7 +1,7 @@
 general:
-  target: /Users/sivan/code_project/company_project
+  target: /path/to/target/project
   exclude_directory:
-    - ansible_project
+    - project_name
   exclude_project:
     - project_01
     - project_02
