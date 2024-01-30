@@ -1,0 +1,3 @@
+general:
+  target: /path/to/target/dir
+  exclude: /path/to/exclude/dir
